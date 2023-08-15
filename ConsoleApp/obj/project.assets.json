@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\PTPMQL2324.csproj",
-      "projectName": "PTPMQL2324",
-      "projectPath": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\PTPMQL2324.csproj",
+      "projectUniqueName": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\ConsoleApp\\ConsoleApp.csproj",
+      "projectName": "ConsoleApp",
+      "projectPath": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\ConsoleApp\\ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\obj\\",
+      "outputPath": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\ConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config"
