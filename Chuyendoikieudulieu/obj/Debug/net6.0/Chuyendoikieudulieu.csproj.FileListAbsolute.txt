@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\bin\Debug\net6.0\Chuyendoikieudulieu.exe
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\bin\Debug\net6.0\Chuyendoikieudulieu.deps.json
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\bin\Debug\net6.0\Chuyendoikieudulieu.runtimeconfig.json
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\bin\Debug\net6.0\Chuyendoikieudulieu.dll
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\bin\Debug\net6.0\Chuyendoikieudulieu.pdb
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\Chuyendoikieudulieu.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\Chuyendoikieudulieu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\Chuyendoikieudulieu.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\Chuyendoikieudulieu.AssemblyInfo.cs
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\Chuyendoikieudulieu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\Chuyendoikieudulieu.dll
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\refint\Chuyendoikieudulieu.dll
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\Chuyendoikieudulieu.pdb
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\Chuyendoikieudulieu.genruntimeconfig.cache
+C:\Users\ACER\Documents\PTPMQL2324\Chuyendoikieudulieu\obj\Debug\net6.0\ref\Chuyendoikieudulieu.dll
