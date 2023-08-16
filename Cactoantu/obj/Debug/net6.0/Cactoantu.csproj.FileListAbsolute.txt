@@ -1,0 +1,15 @@
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\bin\Debug\net6.0\Cactoantu.exe
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\bin\Debug\net6.0\Cactoantu.deps.json
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\bin\Debug\net6.0\Cactoantu.runtimeconfig.json
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\bin\Debug\net6.0\Cactoantu.dll
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\bin\Debug\net6.0\Cactoantu.pdb
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\Cactoantu.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\Cactoantu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\Cactoantu.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\Cactoantu.AssemblyInfo.cs
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\Cactoantu.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\Cactoantu.dll
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\refint\Cactoantu.dll
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\Cactoantu.pdb
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\Cactoantu.genruntimeconfig.cache
+C:\Users\ACER\Documents\PTPMQL2324\Cactoantu\obj\Debug\net6.0\ref\Cactoantu.dll
