@@ -9,10 +9,10 @@
         a = Convert.ToInt32(Console.ReadLine());
         System.Console.Write(" b = ");
         b = Convert.ToInt32(Console.ReadLine());
-        System.Console.WriteLine("cong : {0} + {1} = {2} ",a,b,a+b);
-        System.Console.WriteLine("tru : {0} - {1} = {2} ",a,b,a-b);
-        System.Console.WriteLine("nhan : {0} * {1} = {2} ",a,b,a*b);
-        System.Console.WriteLine("chia : {0} / {1} = {2} ",a,b,a/b);
+        System.Console.WriteLine("Tong : {0} + {1} = {2} ",a,b,a+b);
+        System.Console.WriteLine("Tich : {0} * {1} = {2} ",a,b,a*b);
+        System.Console.WriteLine("Hieu : {0} - {1} = {2} ",a,b,a-b);
+        System.Console.WriteLine("Thuong : {0} / {1} = {2} ",a,b,a/b);
         System.Console.WriteLine("chia co du : {0} % {1} = {2} ",a,b,a%b);
         if (a >= b) {
 				Console.WriteLine("a lon hon  b");
