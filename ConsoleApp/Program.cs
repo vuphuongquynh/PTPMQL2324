@@ -2,13 +2,10 @@
 {
     private static void Main(string[] args)
     {
-          int a = 1;
-        do
+          for(int i = 0; i < 10; i++ )
         {
-            System.Console.WriteLine("Vong lap thu {0}", a);
-            //tăng a lên 1 đơn vị để đảm bảo có lúc a >= 10
-            //a >= 10 thì vòng lặp sẽ kết thúc
-            a++;
-        }while(a < 10);
+           if(i==5) break;
+            System.Console.WriteLine("Vong lap thu {0}", i);
+        }
     }
 }
