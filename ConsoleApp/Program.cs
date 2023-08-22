@@ -12,5 +12,6 @@ public class Program
         ps1.Age = 18;
         //goi phuong thuc thuc hien thi thong tin
         ps1.Display();
+        ps2.Display();
     }
 }
