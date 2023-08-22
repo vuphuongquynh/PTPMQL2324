@@ -1,4 +1,4 @@
-namespace NewApp.Models
+namespace ConsoleApp.Models
 {
     public class Employee
     {
