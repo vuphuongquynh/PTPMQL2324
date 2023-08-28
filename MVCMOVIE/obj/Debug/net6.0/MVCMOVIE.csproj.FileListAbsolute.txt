@@ -1,0 +1,5 @@
+C:\Users\ACER\Documents\PTPMQL2324\MVCMOVIE\obj\Debug\net6.0\MVCMOVIE.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\PTPMQL2324\MVCMOVIE\obj\Debug\net6.0\MVCMOVIE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\Documents\PTPMQL2324\MVCMOVIE\obj\Debug\net6.0\MVCMOVIE.AssemblyInfoInputs.cache
+C:\Users\ACER\Documents\PTPMQL2324\MVCMOVIE\obj\Debug\net6.0\MVCMOVIE.AssemblyInfo.cs
+C:\Users\ACER\Documents\PTPMQL2324\MVCMOVIE\obj\Debug\net6.0\MVCMOVIE.csproj.CoreCompileInputs.cache
