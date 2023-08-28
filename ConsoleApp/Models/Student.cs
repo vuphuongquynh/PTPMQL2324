@@ -5,6 +5,11 @@ namespace ConsoleApp.Models
         public string StudentID { get; set; }
        public string StudentName { get; set; } 
        public int StudentAge { get; set; }
+        public int GetYearOfBirth (int age)
+       {
+        int yearofBirth = 2023 - age;
+        return yearofBirth;
+       }
        public void EnterData()
        {
         System.Console.Write("Ma sinh vien = ");
