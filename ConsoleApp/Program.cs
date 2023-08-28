@@ -4,14 +4,10 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        //khoi tao 2 doi tuong thu class Person
-        Person ps1 = new Person();
-        Person ps2 = new Person();
-        //gan gia tri cho thuoc tinh doi tuong ps1
-        ps1.FullName = "Nguyen Van A";
-        ps1.Address = "Ha Noi";
-        ps1.Age = 18;
-        //goi phuong thuc thuc hien thi thong tin
-        ps1.Display();
+        Person ps = new Person();
+        //khai bao 2 bien va gan gia tri
+        string str  = "Nguyen Van A";
+        int a  = 22;
+       Console.WriteLine("{0} sinh nam {1}", str, ps.GetYearOfBirth(a));
     }
 }
