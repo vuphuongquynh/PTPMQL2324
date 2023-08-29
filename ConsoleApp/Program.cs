@@ -3,8 +3,8 @@ public class Program
 {
     private static void Main(string[] args)
     {
-        Student std = new Student();
-		std.EnterData();
-		std.Display();
+        Person ps = new Person();
+		ps.EnterData();
+		ps.Display();
     }
 }
