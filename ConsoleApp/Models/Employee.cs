@@ -16,6 +16,14 @@ namespace ConsoleApp.Models
         EmployeeAge = Convert.ToInt16(Console.ReadLine());
         System.Console.Write("Luong = ");
         Luong = Convert.ToInt16(Console.ReadLine());
+        try{
+            //câu lệnh có thể gây ngoại lệ
+            Luong = Convert.ToInt16(Console.ReadLine());
+        }catch(Exception e)
+        {
+            //câu lệnh xử lý ngoại lệ
+            Luong = 0;
+        }
        }
         public void Display()
        {
