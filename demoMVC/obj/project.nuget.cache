@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "h+oBbUlNP4epBo2AVCWB2k1DS9MaIaFKic6WfswMTfZL/aogV/YbMBmEkdXw+A8tQrtdQcnHHIHRK8TGhzt2rA==",
+  "dgSpecHash": "9LlPuC1sjirfEIB8yHCNCPYmNm3Q7BAuw7/qvJnIJZBoKGnaQNgsWzPQzCQ8pkncv0njB96Ropy5nLRBYYDd7Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\demoMVC\\demoMVC.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
   "logs": []
 }

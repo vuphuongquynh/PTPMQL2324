@@ -6,7 +6,6 @@ C:\Users\ACER\Documents\PTPMQL2324\demoMVC\bin\Debug\net6.0\demoMVC.deps.json
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\bin\Debug\net6.0\demoMVC.runtimeconfig.json
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\bin\Debug\net6.0\demoMVC.dll
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\bin\Debug\net6.0\demoMVC.pdb
-C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\demoMVC.csproj.AssemblyReference.cache
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\demoMVC.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\demoMVC.AssemblyInfoInputs.cache
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\demoMVC.AssemblyInfo.cs
@@ -24,3 +23,8 @@ C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\refint\demoMVC.dll
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\demoMVC.pdb
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\demoMVC.genruntimeconfig.cache
 C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\ref\demoMVC.dll
+C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\staticwebassets\msbuild.demoMVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\staticwebassets\msbuild.build.demoMVC.props
+C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.demoMVC.props
+C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.demoMVC.props
+C:\Users\ACER\Documents\PTPMQL2324\demoMVC\obj\Debug\net6.0\staticwebassets.pack.json

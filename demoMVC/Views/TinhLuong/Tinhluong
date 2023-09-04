@@ -1,0 +1,13 @@
+<form asp-action="Tinhluong">
+    <label>Nhap luong co ban: </label>
+    <input type="text" name="Luongcb">
+    <br>
+    <label>Nhap he so luong </label>
+    <input type="text" name="heSo">
+    <br>
+    <label>Nhap phu cap: </label>
+    <input type="text" name="Phucap">
+    <br>
+    <input type="submit" value="Tinh lương">
+</form>
+<h2>@ViewBag.tl</h2>
