@@ -9,41 +9,61 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = demoMVC
 build_property.RootNamespace = demoMVC
-build_property.ProjectDir = C:\Users\ACER\Documents\PTPMQL2324\demoMVC\
+build_property.ProjectDir = c:\Users\ACER\Documents\PTPMQL2324\demoMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ACER\Documents\PTPMQL2324\demoMVC
+build_property.MSBuildProjectDirectory = c:\Users\ACER\Documents\PTPMQL2324\demoMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Home/Index.cshtml]
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Home/Privacy.cshtml]
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Person/Index.cshtml]
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Person/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVyc29uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Shared/Error.cshtml]
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Shared/NotFound.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE5vdEZvdW5kLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/_ViewImports.cshtml]
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/_ViewStart.cshtml]
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Shared/_Layout.cshtml]
+[c:/Users/ACER/Documents/PTPMQL2324/demoMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-9nlog2q1s2
