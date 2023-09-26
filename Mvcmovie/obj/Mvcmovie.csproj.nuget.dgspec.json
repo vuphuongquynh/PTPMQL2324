@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACER\\Documents\\PTPMQL2324\\Mvcmovie\\Mvcmovie.csproj": {}
+    "D:\\PTPMQL2324\\Mvcmovie\\Mvcmovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACER\\Documents\\PTPMQL2324\\Mvcmovie\\Mvcmovie.csproj": {
+    "D:\\PTPMQL2324\\Mvcmovie\\Mvcmovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\Mvcmovie\\Mvcmovie.csproj",
+        "projectUniqueName": "D:\\PTPMQL2324\\Mvcmovie\\Mvcmovie.csproj",
         "projectName": "Mvcmovie",
-        "projectPath": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\Mvcmovie\\Mvcmovie.csproj",
+        "projectPath": "D:\\PTPMQL2324\\Mvcmovie\\Mvcmovie.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACER\\Documents\\PTPMQL2324\\Mvcmovie\\obj\\",
+        "outputPath": "D:\\PTPMQL2324\\Mvcmovie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,32 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SQLite": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.10, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
