@@ -1,7 +1,7 @@
 using System.Net;
 using Microsoft.AspNetCore.Mvc;
 
-namespace MvcMovie.Controllers
+namespace Mvcmovie.Controllers
 {
     public class EmployeeController : Controller
     {

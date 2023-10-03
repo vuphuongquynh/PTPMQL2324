@@ -1,7 +1,52 @@
-<h2>Employee</h2>
-<form asp-action="Index">
-    <label>Nhập thông tin</label>
-    <input type="text" name="FullName">
-    <input type="submit" value="Done">
-</form>
-<h2>@ViewBag.emp</h2>
+@model IEnumerable<Mvcmovie.Models.Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Bang thong tin chi tiet </h1>
+
+<p>
+    <a asp-action="Create"> Tao moi 1 nguoi</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.EmployeeId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+              <th>
+                @Html.DisplayNameFor(model => model.SDT)
+            </th>
+             <th>
+                @Html.DisplayNameFor(model => model.Age)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+             <td>
+                @Html.DisplayFor(modelItem => item.EmployeeId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+             <td>
+                @Html.DisplayFor(modelItem => item.SDT)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Age)
+            </td>
+            <br>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.EmployeeId">Sua</a> |
+                <a asp-action="Delete" asp-route-id="@item.EmployeeId">Xoa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

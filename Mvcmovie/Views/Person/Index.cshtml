@@ -1,4 +1,6 @@
 @model IEnumerable<Mvcmovie.Models.Person>
+@using X.PagedList;
+@using X.PagedList.Mvc.Core;
 
 @{
     ViewData["Title"] = "Index";
@@ -8,10 +10,14 @@
 
 <p>
     <a asp-action="Create">Create New</a>
+    <a class="btn btn-success" asp-action="Download">Download</a>
 </p>
 <table class="table">
     <thead>
         <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.PersonId)
+            </th>
              <th>
                 @Html.DisplayNameFor(model => model.FullName)
             </th>
@@ -24,6 +30,9 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.PersonId)
+            </td>
              <td>
                 @Html.DisplayFor(modelItem => item.FullName)
             </td>
@@ -38,3 +47,7 @@
 }
     </tbody>
 </table>
+
+@Html.PagedListPager((IPagedList) Model, page => Url.Action("Index", new {page = page}),
+     new X.PagedList.Web.Common.PagedListRenderOptions { LiElementClasses = new string[] {"page-item"},
+      PageClasses = new string[] { "page-link" }})
