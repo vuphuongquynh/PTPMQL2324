@@ -8,8 +8,10 @@ namespace Mvcmovie.Models.Process
         {
             FileInfo fi = new FileInfo(strPath);
             ExcelPackage excelPackage = new ExcelPackage(fi);
+            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
             DataTable dt = new DataTable();
             ExcelWorksheet worksheet = excelPackage.Workbook.Worksheets[0];
+            
             //check if the worksheet is completely empty
             if (worksheet.Dimension == null)
             {
